@@ -1,6 +1,4 @@
-### Hey there, welcome to my profile 👋
-- Discord: sen#5591
+# Hey there, welcome to my profile 👋
 
-### Socials:
-[<img align="left" alt="sen1337 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="senf0g | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+## Socials:
+[Twitter](https://twitter.com/senf0g) • [YouTube](https://www.youtube.com/c/sen1337) • Discord: sen#5591
